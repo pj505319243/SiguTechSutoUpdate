@@ -1,0 +1,3 @@
+rootProject.name='SiguTechSutoUpdate'
+include ':app'
+include ':sutoupdate'
